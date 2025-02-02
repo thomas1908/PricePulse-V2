@@ -6,4 +6,7 @@
   <img src="https://github.com/thomas1908/PricePulse-V1/blob/master/svg_logo.svg?raw=true" width="60%" alt="DeepSeek-V3" />
 </div>
 <hr>
+
 # PricePulse-V2
+
+## Under development
